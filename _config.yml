@@ -1,4 +1,25 @@
-theme: 枕松闲居
+# --- 网站基础信息 ---
+title: 枕松闲居          # 这里保留了你想用的名字
 email: lhe20603-oss.github.io
 description: >-
-  记录，分享。。。
+  记录，分享...         # 这里保留了你写的描述
+
+# --- 网站地址设置 (非常重要，不要改) ---
+url: "https://lhe20603-oss.github.io"
+baseurl: ""
+
+# --- 核心系统设置 (必须保留这些，否则网站会坏) ---
+markdown: kramdown      # 告诉系统怎么解析文字
+theme: minima           # 使用 GitHub 官方默认主题（保证不报错）
+plugins:
+  - jekyll-feed         # 这是一个必要的插件
+
+# --- 排除不需要处理的文件 ---
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
