@@ -1,0 +1,31 @@
+/* 枕松闲居：站点标题仿古字体 */
+#site-title,
+#site-name {
+  font-family: "STKaiti", "Kaiti SC", "KaiTi", "Songti SC", "SimSun", serif !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.16em !important;
+}
+
+/* 首页中央大标题 */
+#page-header #site-title {
+  font-size: clamp(3rem, 7vw, 5rem) !important;
+  text-shadow: 0 3px 10px rgba(0, 0, 0, 0.45) !important;
+}
+
+/* 左上角站点名 */
+#nav #site-name {
+  font-size: 1.65rem !important;
+  letter-spacing: 0.12em !important;
+}
+
+/* 移动端标题不要太大 */
+@media screen and (max-width: 768px) {
+  #page-header #site-title {
+    font-size: 2.8rem !important;
+    letter-spacing: 0.12em !important;
+  }
+
+  #nav #site-name {
+    font-size: 1.35rem !important;
+  }
+}
