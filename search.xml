@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>我的第一篇 Vlog：开始记录生活</title>
-      <link href="/2026/06/23/Hello-World/"/>
-      <url>/2026/06/23/Hello-World/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 生活思考 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Vlog </tag>
-            
-            <tag> 生活记录 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>WorkBuddy的认识、安装与使用</title>
       <link href="/2026/06/23/Workbox%E7%9A%84%E8%AE%A4%E8%AF%86%E3%80%81%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
       <url>/2026/06/23/Workbox%E7%9A%84%E8%AE%A4%E8%AF%86%E3%80%81%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</url>
@@ -50,6 +23,33 @@
             <tag> AI办公 </tag>
             
             <tag> WorkBuddy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇 Vlog：开始记录生活</title>
+      <link href="/2026/06/23/Hello-World/"/>
+      <url>/2026/06/23/Hello-World/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活思考 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Vlog </tag>
+            
+            <tag> 生活记录 </tag>
             
         </tags>
       
