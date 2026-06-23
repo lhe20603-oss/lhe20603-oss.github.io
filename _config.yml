@@ -1,18 +1,20 @@
 # --- 网站基础信息 ---
-title: 枕松闲居          
-email: lhe20603-oss.github.io
+title: 枕松闲居
+author: 梁贺
+email: ""
 description: >-
-  记录，分享...         
+  在 AI、科研与职业选择中，记录自己的成长路径。
 
-# --- 网站地址设置 (非常重要，不要改) ---
+# --- 网站地址设置 ---
 url: "https://lhe20603-oss.github.io"
 baseurl: ""
 
-# --- 核心系统设置 (必须保留这些，否则网站会坏) ---
-markdown: kramdown      # 告诉系统怎么解析文字
-theme: minima           # 使用 GitHub 官方默认主题（保证不报错）
+# --- 核心系统设置 ---
+markdown: kramdown
+theme: minima
+
 plugins:
-  - jekyll-feed         # 这是一个必要的插件
+  - jekyll-feed
 
 # --- 排除不需要处理的文件 ---
 exclude:
